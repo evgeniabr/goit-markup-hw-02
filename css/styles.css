@@ -132,7 +132,7 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
-  align: center;
+  text-align: center;
 }
 
 .list-item {
@@ -145,7 +145,7 @@ body {
 .benefits .text {
   line-height: 1.71;
 }
-.team .text {
+.team-section .text {
   font-size: 16px;
   line-height: 1.19;
   text-align: center;
